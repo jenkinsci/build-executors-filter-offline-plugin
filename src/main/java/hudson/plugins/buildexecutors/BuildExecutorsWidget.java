@@ -3,7 +3,6 @@ package hudson.plugins.buildexecutors;
 import hudson.Extension;
 
 import hudson.model.Computer;
-import hudson.model.Node;
 import hudson.widgets.Widget;
 import jenkins.model.Jenkins;
 import org.apache.log4j.Logger;
